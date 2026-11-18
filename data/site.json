@@ -22,7 +22,7 @@
       "halftone": true
     },
     "music": {
-      "on": false,
+      "on": true,
       "url": "",
       "volume": 40
     }
