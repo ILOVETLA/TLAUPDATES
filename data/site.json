@@ -59,7 +59,7 @@
           "w": 7,
           "h": 5,
           "x": 0,
-          "y": 9,
+          "y": 5,
           "data": {
             "badge": "MAJOR UPDATE",
             "version": "VERSION 1.5.0",
@@ -100,7 +100,7 @@
           "w": 5,
           "h": 3,
           "x": 7,
-          "y": 5,
+          "y": 8,
           "data": {
             "name": "Spin",
             "rarity": "Legendary",
