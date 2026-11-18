@@ -8,10 +8,10 @@
     "footer": "Happy Update"
   },
   "theme": {
-    "bg": "#04130f",
-    "primary": "#10a37f",
-    "accent": "#f5e663",
-    "text": "#eafaf4"
+    "bg": "#0c0c0c",
+    "primary": "#8a8a8a",
+    "accent": "#ffffff",
+    "text": "#f2f2f2"
   },
   "look": {
     "bg": {
