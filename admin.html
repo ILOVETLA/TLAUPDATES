@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' https: blob:; media-src 'self' https: blob:; frame-src https://www.youtube-nocookie.com; connect-src 'self' https://api.github.com; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex, nofollow">
+<title>Admin — Update Log</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@0,500;0,600;0,700;1,600;1,700&family=Dela+Gothic+One&display=swap">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/site.css">
+<link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="admin">
+<div id="lock"></div>
+<div id="app" hidden>
+  <div id="topbar">
+    <strong class="brand">★ UPDATE LOG EDITOR</strong>
+    <button id="btnUndo" class="tbtn" type="button" title="Undo (Ctrl+Z)">↶ Undo</button>
+    <button id="btnRedo" class="tbtn" type="button" title="Redo (Ctrl+Shift+Z)">↷ Redo</button>
+    <button id="btnPreview" class="tbtn" type="button">👁 Preview</button>
+    <a id="btnView" class="tbtn" href="./" target="_blank" rel="noopener">Open live site ↗</a>
+    <span class="spacer"></span>
+    <span id="status" data-k="ok" role="status" aria-live="polite"></span>
+    <button id="btnLock" class="tbtn" type="button">🔒 Lock</button>
+  </div>
+  <aside id="palette" aria-label="Blocks"></aside>
+  <div id="stage"></div>
+  <aside id="side" aria-label="Settings"></aside>
+</div>
+<script type="module" src="js/admin.js"></script>
+</body>
+</html>

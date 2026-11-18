@@ -1,0 +1,401 @@
+{
+  "v": 1,
+  "site": {
+    "title": "JoJo's Bizarre Game",
+    "sub": "UPDATE LOG",
+    "discord": "",
+    "play": "",
+    "footer": "Not affiliated with Roblox or the original manga. Fan project."
+  },
+  "theme": {
+    "bg": "#0d0716",
+    "primary": "#7b3fe4",
+    "accent": "#f2b84b",
+    "text": "#f4eefb"
+  },
+  "look": {
+    "bg": {
+      "type": "none",
+      "color": "#000000",
+      "url": "",
+      "dim": 45,
+      "halftone": true
+    },
+    "music": {
+      "on": false,
+      "url": "",
+      "volume": 40
+    }
+  },
+  "pages": [
+    {
+      "id": "home",
+      "title": "Home",
+      "blocks": [
+        {
+          "id": "cq4ojdm",
+          "type": "hero",
+          "w": 12,
+          "h": 5,
+          "x": 0,
+          "y": 0,
+          "data": {
+            "tag": "CHAPTER 015 — THE AWAKENING",
+            "title": "THE NEXT CHAPTER",
+            "accent": "BEGINS...",
+            "sub": "New Stands. New Abilities. A new era for JoJo's Bizarre Game.",
+            "btnText": "VIEW LATEST UPDATE →",
+            "btnUrl": "#updates",
+            "note": "Released: April 26, 2025",
+            "sfx": "ドン!!",
+            "image": "",
+            "duo": true,
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "v4cytoo",
+          "type": "patch",
+          "w": 7,
+          "h": 5,
+          "x": 0,
+          "y": 5,
+          "data": {
+            "badge": "MAJOR UPDATE",
+            "version": "VERSION 1.5.0",
+            "title": "THE AWAKENING",
+            "sfx": "ゴゴゴゴ",
+            "tagline": "A NEW POWER EMERGES...",
+            "sections": [
+              {
+                "label": "NEW CONTENT",
+                "items": [
+                  "Added a new Stand",
+                  "New quests and features"
+                ]
+              },
+              {
+                "label": "BALANCE CHANGES",
+                "items": [
+                  "Adjusted combat mechanics",
+                  "Reworked abilities"
+                ]
+              },
+              {
+                "label": "BUG FIXES",
+                "items": [
+                  "Fixed several issues"
+                ]
+              }
+            ],
+            "btnText": "READ FULL PATCH NOTES →",
+            "btnUrl": "#updates",
+            "released": true,
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "e286cfi",
+          "type": "stand",
+          "w": 5,
+          "h": 3,
+          "x": 7,
+          "y": 5,
+          "data": {
+            "name": "THE WORLD",
+            "rarity": "Legendary",
+            "image": "",
+            "stats": [
+              {
+                "label": "Power",
+                "value": 85
+              },
+              {
+                "label": "Speed",
+                "value": 75
+              },
+              {
+                "label": "Range",
+                "value": 45
+              },
+              {
+                "label": "Durability",
+                "value": 70
+              }
+            ],
+            "desc": "",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "v1m5brk",
+          "type": "history",
+          "w": 5,
+          "h": 2,
+          "x": 7,
+          "y": 8,
+          "data": {
+            "title": "VERSION HISTORY",
+            "rows": [
+              {
+                "version": "v1.5.0",
+                "name": "The Awakening",
+                "latest": true
+              },
+              {
+                "version": "v1.4.0",
+                "name": "The Evolution",
+                "latest": false
+              },
+              {
+                "version": "v1.3.0",
+                "name": "The Beginning",
+                "latest": false
+              }
+            ],
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "91542gv",
+          "type": "divider",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 10,
+          "data": {
+            "text": "TO BE CONTINUED...",
+            "jp": "まだ終わりではない…",
+            "tone": "ink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "updates",
+      "title": "Updates",
+      "blocks": [
+        {
+          "id": "gz2ksrl",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 0,
+          "data": {
+            "text": "UPDATES",
+            "tag": "PATCH NOTES",
+            "size": "large",
+            "align": "left",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "l095699",
+          "type": "description",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 1,
+          "data": {
+            "text": "Everything that changed in the game. Log in at admin.html to edit this page — drag blocks around, resize them, and add new ones from the left.",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "fb851kr",
+          "type": "ability",
+          "w": 4,
+          "h": 3,
+          "x": 0,
+          "y": 2,
+          "data": {
+            "name": "Sample Ability",
+            "key": "E",
+            "owner": "Your Stand",
+            "cooldown": "12s",
+            "damage": "30",
+            "tags": [
+              "Melee",
+              "Stun"
+            ],
+            "desc": "Describe what this ability does.",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "atgx8on",
+          "type": "quest",
+          "w": 4,
+          "h": 3,
+          "x": 4,
+          "y": 2,
+          "data": {
+            "name": "Sample Quest",
+            "npc": "Quest Giver",
+            "level": "Lv. 10",
+            "desc": "A short story for the quest.",
+            "objectives": [
+              "Defeat 10 enemies"
+            ],
+            "rewards": [
+              "500 Gold"
+            ],
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "1qnxflr",
+          "type": "balance",
+          "w": 4,
+          "h": 3,
+          "x": 8,
+          "y": 2,
+          "data": {
+            "title": "Balance Changes",
+            "rows": [
+              {
+                "target": "Stand",
+                "stat": "Damage",
+                "from": "10",
+                "to": "12",
+                "kind": "buff"
+              }
+            ],
+            "note": "",
+            "tone": "ink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stands",
+      "title": "Stands",
+      "blocks": [
+        {
+          "id": "zu3vjaa",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 0,
+          "data": {
+            "text": "STANDS",
+            "tag": "SHOWCASE",
+            "size": "large",
+            "align": "left",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "9h5ztxx",
+          "type": "stand",
+          "w": 5,
+          "h": 3,
+          "x": 0,
+          "y": 1,
+          "data": {
+            "name": "STAND NAME",
+            "rarity": "Legendary",
+            "image": "",
+            "stats": [
+              {
+                "label": "Power",
+                "value": 80
+              },
+              {
+                "label": "Speed",
+                "value": 70
+              },
+              {
+                "label": "Range",
+                "value": 50
+              },
+              {
+                "label": "Durability",
+                "value": 65
+              }
+            ],
+            "desc": "",
+            "tone": "ink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "blocks": [
+        {
+          "id": "nwlo6k6",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 0,
+          "data": {
+            "text": "HISTORY",
+            "tag": "ARCHIVE",
+            "size": "large",
+            "align": "left",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "ya8p58z",
+          "type": "history",
+          "w": 6,
+          "h": 2,
+          "x": 0,
+          "y": 1,
+          "data": {
+            "title": "VERSION HISTORY",
+            "rows": [
+              {
+                "version": "v1.0.0",
+                "name": "Launch",
+                "latest": true
+              }
+            ],
+            "tone": "ink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "title": "Events",
+      "blocks": [
+        {
+          "id": "g0btgwr",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 0,
+          "data": {
+            "text": "EVENTS",
+            "tag": "LIVE",
+            "size": "large",
+            "align": "left",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "f3oxih4",
+          "type": "countdown",
+          "w": 4,
+          "h": 2,
+          "x": 0,
+          "y": 1,
+          "data": {
+            "title": "NEXT EVENT IN",
+            "target": "",
+            "done": "OUT NOW!",
+            "tone": "ink"
+          }
+        }
+      ]
+    }
+  ]
+}
