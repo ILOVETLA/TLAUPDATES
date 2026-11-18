@@ -116,11 +116,11 @@
               },
               {
                 "label": "Range",
-                "value": 45
+                "value": 100
               },
               {
                 "label": "Durability",
-                "value": 70
+                "value": 21
               }
             ],
             "desc": "Spin makes it into The Lost Adventure, focusing on managing your meter while also zoning out your enemies.",
