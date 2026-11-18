@@ -9,9 +9,9 @@
   },
   "theme": {
     "bg": "#764a19",
-    "primary": "#10d2f9",
+    "primary": "#10f9ca",
     "accent": "#ff8d0a",
-    "text": "#f2f2f2"
+    "text": "#1db45f"
   },
   "look": {
     "bg": {
