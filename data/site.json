@@ -49,7 +49,7 @@
             "note": "Released: 12th october 2029",
             "sfx": "ドン!!",
             "image": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwms2lp7-FEFE.png",
-            "duo": true,
+            "duo": false,
             "tone": "ink"
           }
         },
