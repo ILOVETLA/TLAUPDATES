@@ -172,6 +172,11 @@
       ]
     },
     {
+      "id": "pduidi",
+      "title": "Updates",
+      "blocks": []
+    },
+    {
       "id": "history",
       "title": "History",
       "blocks": [
@@ -245,11 +250,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "pduidi",
-      "title": "Updates",
-      "blocks": []
     }
   ]
 }
