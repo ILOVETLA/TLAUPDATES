@@ -257,60 +257,6 @@
       ]
     },
     {
-      "id": "stands",
-      "title": "Stands",
-      "blocks": [
-        {
-          "id": "zu3vjaa",
-          "type": "title",
-          "w": 12,
-          "h": 1,
-          "x": 0,
-          "y": 0,
-          "data": {
-            "text": "STANDS",
-            "tag": "SHOWCASE",
-            "size": "large",
-            "align": "left",
-            "tone": "ink"
-          }
-        },
-        {
-          "id": "9h5ztxx",
-          "type": "stand",
-          "w": 5,
-          "h": 3,
-          "x": 0,
-          "y": 1,
-          "data": {
-            "name": "STAND NAME",
-            "rarity": "Legendary",
-            "image": "",
-            "stats": [
-              {
-                "label": "Power",
-                "value": 80
-              },
-              {
-                "label": "Speed",
-                "value": 70
-              },
-              {
-                "label": "Range",
-                "value": 50
-              },
-              {
-                "label": "Durability",
-                "value": 65
-              }
-            ],
-            "desc": "",
-            "tone": "ink"
-          }
-        }
-      ]
-    },
-    {
       "id": "history",
       "title": "History",
       "blocks": [
