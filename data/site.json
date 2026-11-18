@@ -191,18 +191,6 @@
           }
         },
         {
-          "id": "l095699",
-          "type": "description",
-          "w": 12,
-          "h": 1,
-          "x": 0,
-          "y": 1,
-          "data": {
-            "text": "Everything that changed in the game. Log in at admin.html to edit this page — drag blocks around, resize them, and add new ones from the left.",
-            "tone": "ink"
-          }
-        },
-        {
           "id": "fb851kr",
           "type": "ability",
           "w": 4,
