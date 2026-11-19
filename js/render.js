@@ -11,8 +11,8 @@ export function setPos(el, b) {
 }
 
 // ---------- media ----------
-function ytFrame(id) {
-  return h('div', { class: 'ytwrap' }, h('iframe', {
+function ytFrame(id, fit) {
+  return h('div', { class: 'ytwrap' + (fit === 'contain' ? ' contain' : '') }, h('iframe', {
     class: 'media yt', title: 'Video', tabindex: '-1',
     src: `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&loop=1&playlist=${id}&controls=0&playsinline=1&modestbranding=1&rel=0&disablekb=1&iv_load_policy=3`,
     allow: 'autoplay; encrypted-media; picture-in-picture', referrerpolicy: 'strict-origin-when-cross-origin',
@@ -34,7 +34,7 @@ export function mediaEl(url, { fit = 'cover', alt = '' } = {}) {
   const u = safeUrl(url);
   if (!u) return ph();
   const id = youtubeId(u);
-  if (id) return ytFrame(id);
+  if (id) return ytFrame(id, fit);
   const kind = mediaKind(u);
   if (kind === 'image') return h('img', { class: 'media', src: u, alt, loading: 'lazy', decoding: 'async', referrerpolicy: 'no-referrer', style: { objectFit: fit } });
   return videoEl(u, fit);

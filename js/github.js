@@ -31,7 +31,12 @@ export class GH {
     let j = null;
     try { j = await res.json(); } catch {}
     if (!res.ok) {
-      const msg = res.status === 401 ? 'GitHub rejected the token (expired or wrong).' : (j && j.message) || res.statusText;
+      let msg = res.status === 401 ? 'GitHub rejected the token (expired or wrong).' : (j && j.message) || res.statusText;
+      if (res.status === 403 && /not accessible by personal access token/i.test(msg)) {
+        msg = 'GitHub says this token is not allowed to do that. Open github.com/settings/personal-access-tokens, edit the token and check: ' +
+          '(1) Resource owner is the account that owns this repo, (2) Repository access includes this repo, ' +
+          '(3) Repository permissions → Contents is set to "Read and write" (not "No access" or "Read-only"). Save, then try again.';
+      }
       throw new GHError(res.status, msg);
     }
     return j;
@@ -40,7 +45,10 @@ export class GH {
   /** Confirms the token works AND can write to this repo. */
   async check() {
     const j = await this.api(`/repos/${this.repo}`);
-    if (!j.permissions || !j.permissions.push) throw new GHError(403, 'This token can read the repo but cannot write to it. Give it "Contents: Read and write".');
+    if (!j.permissions || !j.permissions.push) throw new GHError(403, 'Your GitHub account cannot write to this repo. Use the repo you own.');
+    // "permissions.push" describes YOU, not the token, so probe a call that really needs the token's Contents permission.
+    try { await this.api(`/repos/${this.repo}/branches/${encodeURIComponent(j.default_branch)}`); }
+    catch (e) { if (e.status !== 404) throw e; }
     return j;
   }
 

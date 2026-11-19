@@ -67,7 +67,7 @@ export const TYPES = {
     N('tilt', '3D tilt strength (0 = off)', 14, 0, 35, { range: true }), S('fit', 'Fit', ['cover', 'contain'], 'cover')] },
   video: { label: 'Video Box', icon: '▶', group: 'Media', w: 6, h: 4, fields: [
     M('url', 'YouTube link or .mp4 / .webm', '', { accept: 'video/mp4,video/webm' }), T('caption', 'Caption'),
-    S('fit', 'Fit (mp4 only)', ['cover', 'contain'], 'cover')] },
+    S('fit', 'Fit (cover = fill & crop, contain = show whole video)', ['cover', 'contain'], 'cover')] },
 
   hero: { label: 'Hero Banner', icon: '◆', group: 'Extras', w: 12, h: 5, fields: [
     T('tag', 'Chapter tag', 'CHAPTER 001 — NEW BEGINNINGS'), T('title', 'Title (white)', 'THE NEXT CHAPTER'), T('accent', 'Title (accent colour)', 'BEGINS...'),

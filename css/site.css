@@ -44,6 +44,7 @@ a { color: var(--acc); }
 }
 .ytwrap { position: absolute; inset: 0; overflow: hidden; container-type: size; }
 .ytwrap iframe { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: max(100cqw, 177.78cqh); height: max(56.25cqw, 100cqh); border: 0; pointer-events: none; }
+.ytwrap.contain iframe { width: min(100cqw, 177.78cqh); height: min(56.25cqw, 100cqh); }
 
 /* ====== Header ====== */
 .hdr { display: flex; align-items: stretch; gap: 14px; max-width: 1320px; margin: 0 auto; padding: 14px 16px 0; flex-wrap: wrap; }
@@ -195,14 +196,14 @@ a.btn:hover { transform: translateY(-2px) skewX(-3deg); filter: brightness(1.1);
 .p-image { background: none; border: 0; clip-path: none; overflow: visible; } .p-image::before { display: none; }
 .blk.t-image { filter: none; }
 .p-video { background: #000; } .p-video::before { display: none; }
-.p-video .media, .p-video .ytwrap { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; pointer-events: none; }
-.p-video .ytwrap iframe { pointer-events: none; }
+.p-video > .media, .p-video > .ytwrap { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; pointer-events: none; }
+.p-video > .ytwrap iframe { pointer-events: none; }
 .cap { position: absolute; left: 0; right: 0; bottom: 0; padding: 8px 14px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; z-index: 2; background: linear-gradient(0deg, rgba(0, 0, 0, .8), transparent); }
 .ph { display: grid; place-items: center; width: 100%; height: 100%; min-height: 80px; color: var(--dim); font-weight: 700; letter-spacing: .06em; background: repeating-linear-gradient(135deg, var(--ink), var(--ink) 10px, var(--panel) 10px, var(--panel) 20px); }
 .tilt { position: absolute; inset: 0; perspective: 900px; }
 .tilt-card { position: absolute; inset: 6px; transform-style: preserve-3d; transition: transform .18s ease-out; will-change: transform; border: 3px solid var(--line); background: var(--ink); overflow: hidden;
   box-shadow: 0 0 0 3px var(--ink), 0 18px 30px rgba(0, 0, 0, .5); }
-.tilt-card .media { position: absolute; inset: 0; width: 100%; height: 100%; }
+.tilt-card > .media { position: absolute; inset: 0; width: 100%; height: 100%; }
 .glare { position: absolute; inset: 0; pointer-events: none; mix-blend-mode: soft-light; background: radial-gradient(circle at var(--gx, 50%) var(--gy, 30%), rgba(255, 255, 255, .55), transparent 55%); }
 
 /* footer & music button */
