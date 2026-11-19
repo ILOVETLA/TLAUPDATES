@@ -186,7 +186,7 @@
           "data": {
             "url": "https://youtu.be/l1kMe0zWV4A?si=sLf_wzUk96HBWdPp",
             "caption": "",
-            "fit": "cover",
+            "fit": "contain",
             "tone": "paper"
           }
         }
