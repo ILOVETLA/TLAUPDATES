@@ -175,20 +175,6 @@
             "desc": "Mandom arrives into TLA with a gimmicky moveset, featuring abilities this game has never heard done. This stand also includes our first interactable cutscene ability!",
             "tone": "gold"
           }
-        },
-        {
-          "id": "7uo2fq9",
-          "type": "video",
-          "w": 2,
-          "h": 5,
-          "x": 5,
-          "y": 12,
-          "data": {
-            "url": "https://youtu.be/PtzhvJh9NRY?si=b9uCNv6ZXb1XvFFm",
-            "caption": "",
-            "fit": "cover",
-            "tone": "ink"
-          }
         }
       ]
     },
