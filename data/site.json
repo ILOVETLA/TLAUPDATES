@@ -193,10 +193,10 @@
         {
           "id": "j722t52",
           "type": "countdown",
-          "w": 4,
-          "h": 2,
-          "x": 0,
-          "y": 29,
+          "w": 5,
+          "h": 5,
+          "x": 7,
+          "y": 5,
           "data": {
             "title": "NEXT UPDATE IN",
             "target": "",
