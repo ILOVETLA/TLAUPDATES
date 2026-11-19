@@ -175,20 +175,6 @@
             "desc": "Mandom arrives into TLA with a gimmicky moveset, featuring abilities this game has never heard done. This stand also includes our first interactable cutscene ability!",
             "tone": "gold"
           }
-        },
-        {
-          "id": "uwvr45m",
-          "type": "code",
-          "w": 6,
-          "h": 4,
-          "x": 0,
-          "y": 23,
-          "data": {
-            "title": "Script.lua",
-            "lang": "lua",
-            "code": "local function hello()\n\tprint(\"ORA ORA ORA!\")\nend\n\nhello()",
-            "tone": "ink"
-          }
         }
       ]
     },
