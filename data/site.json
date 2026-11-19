@@ -93,7 +93,7 @@
             ],
             "btnText": "",
             "btnUrl": "#updates",
-            "released": true,
+            "released": false,
             "tone": "ink"
           }
         },
