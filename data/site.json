@@ -75,6 +75,10 @@
                 ]
               },
               {
+                "label": "New gamemode",
+                "items": []
+              },
+              {
                 "label": "New quests",
                 "items": [
                   "True Man's World",
