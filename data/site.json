@@ -103,7 +103,7 @@
           "w": 5,
           "h": 3,
           "x": 7,
-          "y": 5,
+          "y": 13,
           "data": {
             "name": "Spin",
             "rarity": "Legendary",
@@ -136,7 +136,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 17,
+          "y": 22,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -148,8 +148,8 @@
           "type": "stand",
           "w": 5,
           "h": 3,
-          "x": 7,
-          "y": 8,
+          "x": 0,
+          "y": 13,
           "data": {
             "name": "Mandom",
             "rarity": "Legendary",
