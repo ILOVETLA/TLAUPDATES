@@ -177,17 +177,17 @@
           }
         },
         {
-          "id": "rcb04aq",
+          "id": "7uo2fq9",
           "type": "video",
-          "w": 2,
-          "h": 3,
-          "x": 5,
-          "y": 13,
+          "w": 6,
+          "h": 4,
+          "x": 0,
+          "y": 29,
           "data": {
-            "url": "https://youtu.be/l1kMe0zWV4A?si=sLf_wzUk96HBWdPp",
+            "url": "",
             "caption": "",
             "fit": "cover",
-            "tone": "paper"
+            "tone": "ink"
           }
         }
       ]
