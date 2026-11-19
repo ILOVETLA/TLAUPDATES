@@ -91,7 +91,7 @@
                 ]
               }
             ],
-            "btnText": "READ FULL PATCH NOTES →",
+            "btnText": "",
             "btnUrl": "#updates",
             "released": true,
             "tone": "ink"
