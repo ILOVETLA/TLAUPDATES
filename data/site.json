@@ -76,7 +76,10 @@
               },
               {
                 "label": "New gamemode",
-                "items": []
+                "items": [
+                  "One Versus One",
+                  "One Versus One (Ranked)"
+                ]
               },
               {
                 "label": "New quests",
