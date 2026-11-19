@@ -78,7 +78,9 @@
                 "label": "New gamemode",
                 "items": [
                   "One Versus One",
-                  "One Versus One (Ranked)"
+                  "One Versus One (Ranked)",
+                  "Two Versus Two",
+                  "Two Versus Two (Ranked)"
                 ]
               },
               {
