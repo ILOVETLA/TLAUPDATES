@@ -131,35 +131,6 @@
           }
         },
         {
-          "id": "v1m5brk",
-          "type": "history",
-          "w": 5,
-          "h": 2,
-          "x": 7,
-          "y": 8,
-          "data": {
-            "title": "VERSION HISTORY",
-            "rows": [
-              {
-                "version": "v1.5.0",
-                "name": "The Awakening",
-                "latest": true
-              },
-              {
-                "version": "v1.4.0",
-                "name": "The Evolution",
-                "latest": false
-              },
-              {
-                "version": "v1.3.0",
-                "name": "The Beginning",
-                "latest": false
-              }
-            ],
-            "tone": "ink"
-          }
-        },
-        {
           "id": "91542gv",
           "type": "divider",
           "w": 12,
@@ -170,6 +141,39 @@
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
             "tone": "ink"
+          }
+        },
+        {
+          "id": "724z862",
+          "type": "stand",
+          "w": 5,
+          "h": 3,
+          "x": 7,
+          "y": 8,
+          "data": {
+            "name": "Spin",
+            "rarity": "Legendary",
+            "image": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwms66w2-Slenderman_redacted_bg.jpg",
+            "stats": [
+              {
+                "label": "Power",
+                "value": 59
+              },
+              {
+                "label": "Speed",
+                "value": 48
+              },
+              {
+                "label": "Range",
+                "value": 100
+              },
+              {
+                "label": "Durability",
+                "value": 21
+              }
+            ],
+            "desc": "Spin makes it into The Lost Adventure, focusing on managing your meter while also zoning out your enemies.",
+            "tone": "violet"
           }
         }
       ]
