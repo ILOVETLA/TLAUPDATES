@@ -189,6 +189,20 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "j722t52",
+          "type": "countdown",
+          "w": 4,
+          "h": 2,
+          "x": 0,
+          "y": 29,
+          "data": {
+            "title": "NEXT UPDATE IN",
+            "target": "",
+            "done": "OUT NOW!",
+            "tone": "ink"
+          }
         }
       ]
     },
