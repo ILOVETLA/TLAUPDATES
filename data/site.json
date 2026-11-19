@@ -157,19 +157,19 @@
             "stats": [
               {
                 "label": "Power",
-                "value": 59
+                "value": 66
               },
               {
                 "label": "Speed",
-                "value": 48
+                "value": 37
               },
               {
                 "label": "Range",
-                "value": 100
+                "value": 52
               },
               {
                 "label": "Durability",
-                "value": 21
+                "value": 81
               }
             ],
             "desc": "Spin makes it into The Lost Adventure, focusing on managing your meter while also zoning out your enemies.",
