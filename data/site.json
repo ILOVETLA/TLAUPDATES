@@ -815,10 +815,10 @@
           "x": 0,
           "y": 94,
           "data": {
-            "title": "The World",
+            "title": "Stone Free",
             "rows": [
               {
-                "target": "Impale",
+                "target": "Ora Breaker",
                 "stat": "DMG",
                 "from": "30",
                 "to": "60",
