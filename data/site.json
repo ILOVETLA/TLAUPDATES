@@ -550,8 +550,8 @@
               {
                 "target": "Ground Erasure",
                 "stat": "",
-                "from": "",
-                "to": "",
+                "from": "Locked Rotation",
+                "to": "Fully Turnable",
                 "kind": "buff"
               }
             ],
