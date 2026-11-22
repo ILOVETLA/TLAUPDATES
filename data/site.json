@@ -546,6 +546,13 @@
                 "from": "Ragoll",
                 "to": "Soft Knockback",
                 "kind": "buff"
+              },
+              {
+                "target": "Stand",
+                "stat": "Damage",
+                "from": "10",
+                "to": "12",
+                "kind": "buff"
               }
             ],
             "note": "",
