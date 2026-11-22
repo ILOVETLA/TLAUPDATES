@@ -278,6 +278,20 @@
             "rotate": -6,
             "tone": "ink"
           }
+        },
+        {
+          "id": "s2c3l10",
+          "type": "sfx",
+          "w": 1,
+          "h": 1,
+          "x": 0,
+          "y": 21,
+          "data": {
+            "text": "ゴゴゴ",
+            "size": "large",
+            "rotate": -6,
+            "tone": "ink"
+          }
         }
       ]
     },
