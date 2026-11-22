@@ -87,8 +87,10 @@
                 ]
               },
               {
-                "label": "NEW CONTENT",
-                "items": []
+                "label": "new system",
+                "items": [
+                  "Unusual Emotes"
+                ]
               },
               {
                 "label": "New quests",
