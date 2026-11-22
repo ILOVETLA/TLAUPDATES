@@ -819,7 +819,7 @@
             "rows": [
               {
                 "target": "Ora Breaker",
-                "stat": "DMG",
+                "stat": "",
                 "from": "30",
                 "to": "60",
                 "kind": "buff"
