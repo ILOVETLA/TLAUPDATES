@@ -377,6 +377,19 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "x95fv77",
+          "type": "text",
+          "w": 4,
+          "h": 7,
+          "x": 4,
+          "y": 37,
+          "data": {
+            "heading": "Heading",
+            "body": "Write something here.\n\n- Point one\n- Point two",
+            "tone": "gold"
+          }
         }
       ]
     },
