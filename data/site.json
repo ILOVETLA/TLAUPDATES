@@ -399,10 +399,10 @@
           "x": 0,
           "y": 47,
           "data": {
-            "text": "New Title",
+            "text": "NEW QUESTS",
             "tag": "",
-            "size": "medium",
-            "align": "left",
+            "size": "large",
+            "align": "center",
             "tone": "ink"
           }
         }
