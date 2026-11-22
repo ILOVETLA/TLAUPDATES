@@ -673,10 +673,10 @@
           "x": 0,
           "y": 73,
           "data": {
-            "text": "New Title",
+            "text": "NEW EMOTES",
             "tag": "",
             "size": "large",
-            "align": "left",
+            "align": "center",
             "tone": "ink"
           }
         }
