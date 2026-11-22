@@ -520,9 +520,9 @@
               {
                 "target": "Star Breaker",
                 "stat": "",
-                "from": "10",
+                "from": "",
                 "to": "12",
-                "kind": "nerf"
+                "kind": "fix"
               }
             ],
             "note": "",
