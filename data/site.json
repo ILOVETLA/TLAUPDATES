@@ -105,7 +105,7 @@
           "type": "stand",
           "w": 5,
           "h": 3,
-          "x": 7,
+          "x": 0,
           "y": 13,
           "data": {
             "name": "Spin",
@@ -151,7 +151,7 @@
           "type": "stand",
           "w": 5,
           "h": 3,
-          "x": 0,
+          "x": 7,
           "y": 13,
           "data": {
             "name": "Mandom",
