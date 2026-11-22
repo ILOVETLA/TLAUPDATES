@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 36,
+          "y": 37,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -336,16 +336,18 @@
           }
         },
         {
-          "id": "xb3s7ti",
-          "type": "text",
-          "w": 6,
-          "h": 3,
+          "id": "mrua8nh",
+          "type": "title",
+          "w": 12,
+          "h": 1,
           "x": 0,
-          "y": 37,
+          "y": 36,
           "data": {
-            "heading": "Heading",
-            "body": "Write something here.\n\n- Point one\n- Point two",
-            "tone": "ink"
+            "text": "NEW EVENT",
+            "tag": "",
+            "size": "large",
+            "align": "center",
+            "tone": "violet"
           }
         }
       ]
