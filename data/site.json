@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 58,
+          "y": 61,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -437,8 +437,24 @@
           "type": "image",
           "w": 4,
           "h": 4,
-          "x": 0,
-          "y": 59,
+          "x": 1,
+          "y": 53,
+          "data": {
+            "url": "",
+            "alt": "",
+            "caption": "",
+            "tilt": 14,
+            "fit": "cover",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "ssuwxd8",
+          "type": "image",
+          "w": 4,
+          "h": 4,
+          "x": 7,
+          "y": 49,
           "data": {
             "url": "",
             "alt": "",
