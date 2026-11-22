@@ -550,6 +550,33 @@
             "note": "",
             "tone": "ink"
           }
+        },
+        {
+          "id": "2h9i6da",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 65,
+          "data": {
+            "text": "CODES",
+            "tag": "",
+            "size": "large",
+            "align": "center",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "iiir69n",
+          "type": "description",
+          "w": 8,
+          "h": 1,
+          "x": 0,
+          "y": 66,
+          "data": {
+            "text": "Mandom",
+            "tone": "ink"
+          }
         }
       ]
     },
