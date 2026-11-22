@@ -89,7 +89,9 @@
               },
               {
                 "label": "NEW EVENT",
-                "items": []
+                "items": [
+                  "Ringo VS Gyro"
+                ]
               }
             ],
             "btnText": "",
