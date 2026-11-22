@@ -828,6 +828,42 @@
             "note": "Stone Free nerf",
             "tone": "ink"
           }
+        },
+        {
+          "id": "6u4ttl1",
+          "type": "balance",
+          "w": 6,
+          "h": 3,
+          "x": 6,
+          "y": 94,
+          "data": {
+            "title": "The Hand",
+            "rows": [
+              {
+                "target": "Erasure Swipe",
+                "stat": "",
+                "from": "",
+                "to": "Has lesser endlag",
+                "kind": "buff"
+              },
+              {
+                "target": "Erasure Swipe",
+                "stat": "",
+                "from": "Ragoll",
+                "to": "Soft Knockback",
+                "kind": "buff"
+              },
+              {
+                "target": "Ground Erasure",
+                "stat": "",
+                "from": "Locked Rotation",
+                "to": "Fully Turnable",
+                "kind": "buff"
+              }
+            ],
+            "note": "Even if The Hand only has like five moves, we feel like it can still hold up to the other stands with just a few buffs.",
+            "tone": "ink"
+          }
         }
       ]
     },
