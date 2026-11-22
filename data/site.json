@@ -460,7 +460,7 @@
             "alt": "",
             "caption": "",
             "tilt": 14,
-            "fit": "contain",
+            "fit": "cover",
             "tone": "ink"
           }
         },
