@@ -424,7 +424,7 @@
           "type": "text",
           "w": 6,
           "h": 5,
-          "x": 5,
+          "x": 6,
           "y": 53,
           "data": {
             "heading": "Heading",
@@ -437,7 +437,7 @@
           "type": "image",
           "w": 4,
           "h": 4,
-          "x": 1,
+          "x": 2,
           "y": 53,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdlg4z-2f06a6be05c99558fbb3353db62dfa1d.jpg",
@@ -453,7 +453,7 @@
           "type": "image",
           "w": 4,
           "h": 4,
-          "x": 7,
+          "x": 6,
           "y": 49,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdl3q1-HeyYaAppear.png",
@@ -469,7 +469,7 @@
           "type": "sfx",
           "w": 1,
           "h": 3,
-          "x": 0,
+          "x": 1,
           "y": 53,
           "data": {
             "text": "ゴゴゴ",
@@ -484,7 +484,7 @@
           "w": 1,
           "h": 3,
           "x": 11,
-          "y": 54,
+          "y": 50,
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
