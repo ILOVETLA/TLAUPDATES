@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 26,
+          "y": 30,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -263,22 +263,6 @@
             "size": "large",
             "align": "center",
             "tone": "violet"
-          }
-        },
-        {
-          "id": "76t1v5m",
-          "type": "image",
-          "w": 4,
-          "h": 4,
-          "x": 0,
-          "y": 27,
-          "data": {
-            "url": "",
-            "alt": "",
-            "caption": "",
-            "tilt": 14,
-            "fit": "cover",
-            "tone": "ink"
           }
         }
       ]
