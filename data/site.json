@@ -390,6 +390,21 @@
             "body": "Choose beetween team Gyro Zepelli and team Ringo Roadagain.\n\n\n\nContribute on a global scale to your team by completing quests and defeating bosses and defeating players of the other team. At the next update's release, the winning team will receive GREAT rewards and maybe something else too.",
             "tone": "violet"
           }
+        },
+        {
+          "id": "mjbfnkt",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 47,
+          "data": {
+            "text": "New Title",
+            "tag": "",
+            "size": "medium",
+            "align": "left",
+            "tone": "ink"
+          }
         }
       ]
     },
