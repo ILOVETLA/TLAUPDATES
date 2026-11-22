@@ -170,7 +170,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 99,
+          "y": 100,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -848,6 +848,18 @@
               }
             ],
             "note": "Time for a change",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "v0mnq6e",
+          "type": "description",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 99,
+          "data": {
+            "text": "GETTHOSEEMOTES - 50K TLA Bucks",
             "tone": "ink"
           }
         }
