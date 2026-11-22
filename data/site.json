@@ -170,7 +170,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 79,
+          "y": 80,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -514,7 +514,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 73,
+          "y": 74,
           "data": {
             "text": "balance changes",
             "tag": "",
@@ -529,7 +529,7 @@
           "w": 6,
           "h": 3,
           "x": 6,
-          "y": 74,
+          "y": 75,
           "data": {
             "title": "Star Platinum",
             "rows": [
@@ -551,7 +551,7 @@
           "w": 6,
           "h": 3,
           "x": 0,
-          "y": 74,
+          "y": 75,
           "data": {
             "title": "The World",
             "rows": [
@@ -573,7 +573,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 77,
+          "y": 78,
           "data": {
             "text": "CODES",
             "tag": "",
@@ -588,7 +588,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 78,
+          "y": 79,
           "data": {
             "text": "Mandom - +1 TLA buck",
             "tone": "ink"
@@ -671,7 +671,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 59,
+          "y": 73,
           "data": {
             "text": "New Title",
             "tag": "",
