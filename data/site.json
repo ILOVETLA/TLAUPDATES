@@ -429,7 +429,23 @@
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
-            "tone": "violet"
+            "tone": "gold"
+          }
+        },
+        {
+          "id": "v5evver",
+          "type": "image",
+          "w": 4,
+          "h": 4,
+          "x": 0,
+          "y": 59,
+          "data": {
+            "url": "",
+            "alt": "",
+            "caption": "",
+            "tilt": 14,
+            "fit": "cover",
+            "tone": "ink"
           }
         }
       ]
