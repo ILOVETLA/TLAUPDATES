@@ -686,7 +686,7 @@
           "w": 3,
           "h": 5,
           "x": 0,
-          "y": 74,
+          "y": 75,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mws9pall-Enregistrement_de_l_cran_2026-11-22_150619.mp4",
             "caption": "kwik flip",
@@ -714,7 +714,7 @@
           "w": 3,
           "h": 5,
           "x": 6,
-          "y": 74,
+          "y": 75,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwsa4gow-Enregistrement_de_l_cran_2026-11-22_151811.mp4",
             "caption": "doh",
@@ -776,6 +776,21 @@
             "caption": "ppl in japan",
             "fit": "cover",
             "tone": "gold"
+          }
+        },
+        {
+          "id": "39i7koe",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 62,
+          "data": {
+            "text": "NEW EMOTES",
+            "tag": "",
+            "size": "large",
+            "align": "center",
+            "tone": "ink"
           }
         }
       ]
