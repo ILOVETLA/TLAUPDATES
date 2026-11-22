@@ -605,20 +605,6 @@
             "align": "center",
             "tone": "ink"
           }
-        },
-        {
-          "id": "p538owq",
-          "type": "video",
-          "w": 4,
-          "h": 9,
-          "x": 8,
-          "y": 47,
-          "data": {
-            "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrcxn5o-Enregistrement_de_l_cran_2026-11-21_234901.mp4",
-            "caption": "",
-            "fit": "cover",
-            "tone": "gold"
-          }
         }
       ]
     },
