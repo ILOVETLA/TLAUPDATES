@@ -544,7 +544,7 @@
                 "stat": "DMG",
                 "from": "30",
                 "to": "100",
-                "kind": "fix"
+                "kind": "buff"
               }
             ],
             "note": "",
