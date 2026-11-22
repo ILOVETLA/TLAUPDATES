@@ -623,6 +623,20 @@
             "align": "center",
             "tone": "ink"
           }
+        },
+        {
+          "id": "k3nn75n",
+          "type": "video",
+          "w": 6,
+          "h": 4,
+          "x": 0,
+          "y": 80,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
         }
       ]
     },
