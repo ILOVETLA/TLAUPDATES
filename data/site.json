@@ -491,6 +491,21 @@
             "rotate": -6,
             "tone": "ink"
           }
+        },
+        {
+          "id": "g6llsey",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 64,
+          "data": {
+            "text": "New Title",
+            "tag": "",
+            "size": "medium",
+            "align": "left",
+            "tone": "ink"
+          }
         }
       ]
     },
