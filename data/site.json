@@ -170,7 +170,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 92,
+          "y": 96,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -514,7 +514,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 86,
+          "y": 90,
           "data": {
             "text": "balance changes",
             "tag": "",
@@ -529,7 +529,7 @@
           "w": 6,
           "h": 3,
           "x": 6,
-          "y": 87,
+          "y": 91,
           "data": {
             "title": "Star Platinum",
             "rows": [
@@ -551,7 +551,7 @@
           "w": 6,
           "h": 3,
           "x": 0,
-          "y": 87,
+          "y": 91,
           "data": {
             "title": "The World",
             "rows": [
@@ -573,7 +573,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 90,
+          "y": 94,
           "data": {
             "text": "CODES",
             "tag": "",
@@ -588,7 +588,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 91,
+          "y": 95,
           "data": {
             "text": "Mandom - +1 TLA buck",
             "tone": "ink"
@@ -729,6 +729,34 @@
           "h": 5,
           "x": 9,
           "y": 76,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "osjwf8i",
+          "type": "video",
+          "w": 3,
+          "h": 5,
+          "x": 6,
+          "y": 80,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "iu1vtpt",
+          "type": "video",
+          "w": 3,
+          "h": 5,
+          "x": 0,
+          "y": 80,
           "data": {
             "url": "",
             "caption": "",
