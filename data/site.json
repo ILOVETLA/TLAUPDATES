@@ -368,7 +368,7 @@
           "id": "4tzvxaz",
           "type": "video",
           "w": 4,
-          "h": 7,
+          "h": 9,
           "x": 8,
           "y": 37,
           "data": {
@@ -384,7 +384,7 @@
           "w": 4,
           "h": 7,
           "x": 4,
-          "y": 37,
+          "y": 38,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
