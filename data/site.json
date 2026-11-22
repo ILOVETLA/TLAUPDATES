@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 41,
+          "y": 51,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -353,9 +353,23 @@
         {
           "id": "7n6bnx3",
           "type": "video",
-          "w": 6,
-          "h": 4,
+          "w": 4,
+          "h": 7,
           "x": 0,
+          "y": 37,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "4tzvxaz",
+          "type": "video",
+          "w": 4,
+          "h": 7,
+          "x": 8,
           "y": 37,
           "data": {
             "url": "",
