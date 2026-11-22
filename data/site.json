@@ -105,6 +105,10 @@
                 "items": [
                   "Mandom"
                 ]
+              },
+              {
+                "label": "NEW CONTENT",
+                "items": []
               }
             ],
             "btnText": "",
