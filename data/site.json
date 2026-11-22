@@ -264,6 +264,20 @@
             "align": "center",
             "tone": "violet"
           }
+        },
+        {
+          "id": "py3x3yw",
+          "type": "sfx",
+          "w": 3,
+          "h": 2,
+          "x": 0,
+          "y": 31,
+          "data": {
+            "text": "ゴゴゴ",
+            "size": "large",
+            "rotate": -6,
+            "tone": "ink"
+          }
         }
       ]
     },
