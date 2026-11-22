@@ -170,7 +170,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 96,
+          "y": 99,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -587,7 +587,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 94,
+          "y": 97,
           "data": {
             "text": "CODES",
             "tag": "",
@@ -602,7 +602,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 95,
+          "y": 98,
           "data": {
             "text": "Mandom - +1 TLA buck",
             "tone": "ink"
@@ -805,6 +805,28 @@
             "size": "large",
             "align": "center",
             "tone": "ink"
+          }
+        },
+        {
+          "id": "c6kzlsf",
+          "type": "balance",
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 94,
+          "data": {
+            "title": "The World",
+            "rows": [
+              {
+                "target": "Impale",
+                "stat": "DMG",
+                "from": "30",
+                "to": "60",
+                "kind": "buff"
+              }
+            ],
+            "note": "",
+            "tone": "gold"
           }
         }
       ]
