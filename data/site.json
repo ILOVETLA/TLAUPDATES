@@ -512,7 +512,7 @@
           "type": "balance",
           "w": 6,
           "h": 3,
-          "x": 0,
+          "x": 6,
           "y": 60,
           "data": {
             "title": "Star Platinum",
@@ -534,7 +534,7 @@
           "type": "balance",
           "w": 6,
           "h": 3,
-          "x": 6,
+          "x": 0,
           "y": 60,
           "data": {
             "title": "The World",
@@ -557,7 +557,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 65,
+          "y": 66,
           "data": {
             "text": "CODES",
             "tag": "",
@@ -572,7 +572,7 @@
           "w": 8,
           "h": 1,
           "x": 0,
-          "y": 66,
+          "y": 67,
           "data": {
             "text": "Mandom - +1 TLA buck",
             "tone": "ink"
