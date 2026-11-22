@@ -329,23 +329,8 @@
           "y": 35,
           "data": {
             "text": "NEW EVENT",
-            "tag": "",
+            "tag": "rINGO vERSUS gYRO",
             "size": "large",
-            "align": "center",
-            "tone": "violet"
-          }
-        },
-        {
-          "id": "mrua8nh",
-          "type": "title",
-          "w": 12,
-          "h": 1,
-          "x": 0,
-          "y": 36,
-          "data": {
-            "text": "NEW EVENT",
-            "tag": "",
-            "size": "small",
             "align": "center",
             "tone": "violet"
           }
