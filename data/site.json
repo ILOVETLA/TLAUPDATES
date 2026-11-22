@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 31,
+          "y": 35,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -299,7 +299,7 @@
           "w": 6,
           "h": 3,
           "x": 3,
-          "y": 28,
+          "y": 32,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
@@ -309,9 +309,9 @@
         {
           "id": "mfud8l3",
           "type": "video",
-          "w": 6,
-          "h": 4,
-          "x": 3,
+          "w": 9,
+          "h": 8,
+          "x": 0,
           "y": 24,
           "data": {
             "url": "",
