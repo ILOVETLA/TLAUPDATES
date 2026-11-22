@@ -515,10 +515,10 @@
           "x": 0,
           "y": 60,
           "data": {
-            "title": "Balance Changes",
+            "title": "Star Platinum",
             "rows": [
               {
-                "target": "Stand",
+                "target": "Star PLatinum",
                 "stat": "Damage",
                 "from": "10",
                 "to": "12",
