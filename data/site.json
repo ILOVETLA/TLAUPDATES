@@ -235,6 +235,20 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "qrrsgzc",
+          "type": "video",
+          "w": 12,
+          "h": 4,
+          "x": 0,
+          "y": 21,
+          "data": {
+            "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwr9cwz0-MedalTVRoblox20260716043543413-trim-1784151388004.mp4",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
         }
       ]
     },
