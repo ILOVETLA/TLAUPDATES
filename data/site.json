@@ -820,7 +820,7 @@
               {
                 "target": "Ora Breaker",
                 "stat": "",
-                "from": "30",
+                "from": "Ragdoll",
                 "to": "60",
                 "kind": "buff"
               }
