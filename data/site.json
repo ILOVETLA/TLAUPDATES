@@ -541,10 +541,10 @@
                 "kind": "buff"
               },
               {
-                "target": "Stand",
-                "stat": "Damage",
-                "from": "10",
-                "to": "12",
+                "target": "Erasure Swipe",
+                "stat": "",
+                "from": "Ragoll",
+                "to": "",
                 "kind": "buff"
               }
             ],
