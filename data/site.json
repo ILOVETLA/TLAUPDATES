@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 35,
+          "y": 36,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -317,6 +317,21 @@
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrcpzap-1121_1_.mp4",
             "caption": "",
             "fit": "cover",
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "c3ddjd5",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 35,
+          "data": {
+            "text": "New Title",
+            "tag": "",
+            "size": "medium",
+            "align": "left",
             "tone": "ink"
           }
         }
