@@ -679,6 +679,20 @@
             "align": "center",
             "tone": "ink"
           }
+        },
+        {
+          "id": "2h8bofm",
+          "type": "video",
+          "w": 6,
+          "h": 4,
+          "x": 0,
+          "y": 81,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
         }
       ]
     },
