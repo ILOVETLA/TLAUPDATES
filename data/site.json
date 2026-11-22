@@ -467,10 +467,24 @@
         {
           "id": "2482gcu",
           "type": "sfx",
-          "w": 3,
-          "h": 2,
+          "w": 1,
+          "h": 3,
           "x": 0,
-          "y": 62,
+          "y": 53,
+          "data": {
+            "text": "ゴゴゴ",
+            "size": "large",
+            "rotate": -6,
+            "tone": "ink"
+          }
+        },
+        {
+          "id": "q3yy9xu",
+          "type": "sfx",
+          "w": 1,
+          "h": 3,
+          "x": 0,
+          "y": 56,
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
