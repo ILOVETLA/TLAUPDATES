@@ -650,6 +650,20 @@
             "body": "Write something here.\n\n- Point one\n- Point two",
             "tone": "ink"
           }
+        },
+        {
+          "id": "kpha8r2",
+          "type": "video",
+          "w": 6,
+          "h": 4,
+          "x": 0,
+          "y": 80,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
         }
       ]
     },
