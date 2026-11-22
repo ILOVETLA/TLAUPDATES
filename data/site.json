@@ -207,6 +207,20 @@
             "align": "center",
             "tone": "ink"
           }
+        },
+        {
+          "id": "2nd6at4",
+          "type": "video",
+          "w": 6,
+          "h": 4,
+          "x": 0,
+          "y": 29,
+          "data": {
+            "url": "",
+            "caption": "",
+            "fit": "cover",
+            "tone": "ink"
+          }
         }
       ]
     },
