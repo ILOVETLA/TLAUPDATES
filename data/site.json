@@ -397,7 +397,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 53,
+          "y": 47,
           "data": {
             "text": "NEW QUESTS",
             "tag": "",
@@ -412,7 +412,7 @@
           "w": 6,
           "h": 5,
           "x": 0,
-          "y": 54,
+          "y": 48,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
@@ -424,8 +424,8 @@
           "type": "text",
           "w": 6,
           "h": 5,
-          "x": 6,
-          "y": 58,
+          "x": 5,
+          "y": 53,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
@@ -438,7 +438,7 @@
           "w": 4,
           "h": 4,
           "x": 1,
-          "y": 59,
+          "y": 53,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdlg4z-2f06a6be05c99558fbb3353db62dfa1d.jpg",
             "alt": "",
@@ -454,7 +454,7 @@
           "w": 4,
           "h": 4,
           "x": 7,
-          "y": 54,
+          "y": 48,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdl3q1-HeyYaAppear.png",
             "alt": "",
@@ -470,7 +470,7 @@
           "w": 1,
           "h": 3,
           "x": 0,
-          "y": 59,
+          "y": 53,
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
@@ -483,8 +483,8 @@
           "type": "sfx",
           "w": 1,
           "h": 3,
-          "x": 11,
-          "y": 55,
+          "x": 10,
+          "y": 58,
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
