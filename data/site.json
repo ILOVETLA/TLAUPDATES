@@ -345,7 +345,7 @@
           "data": {
             "text": "NEW EVENT",
             "tag": "",
-            "size": "large",
+            "size": "small",
             "align": "center",
             "tone": "violet"
           }
