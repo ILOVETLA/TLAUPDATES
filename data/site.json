@@ -486,7 +486,7 @@
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
-            "rotate": -6,
+            "rotate": 12,
             "tone": "ink"
           }
         },
