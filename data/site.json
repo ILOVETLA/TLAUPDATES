@@ -843,7 +843,7 @@
                 "target": "Energy Overflow",
                 "stat": "",
                 "from": "",
-                "to": "Has lesser endlag",
+                "to": "",
                 "kind": "buff"
               }
             ],
