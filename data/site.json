@@ -842,8 +842,8 @@
               {
                 "target": "Energy Overflow",
                 "stat": "",
-                "from": "",
-                "to": "",
+                "from": "Ragdoll",
+                "to": "Soft Knockback",
                 "kind": "buff"
               }
             ],
