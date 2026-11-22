@@ -201,6 +201,19 @@
             "align": "left",
             "tone": "ink"
           }
+        },
+        {
+          "id": "4t1j1ai",
+          "type": "text",
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 30,
+          "data": {
+            "heading": "Heading",
+            "body": "Write something here.\n\n- Point one\n- Point two",
+            "tone": "ink"
+          }
         }
       ]
     },
