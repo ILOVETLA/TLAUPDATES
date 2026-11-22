@@ -193,12 +193,12 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 29,
+          "y": 11,
           "data": {
             "text": "New Title",
             "tag": "",
             "size": "medium",
-            "align": "left",
+            "align": "center",
             "tone": "ink"
           }
         }
