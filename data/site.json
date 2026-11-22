@@ -87,6 +87,10 @@
                 ]
               },
               {
+                "label": "NEW CONTENT",
+                "items": []
+              },
+              {
                 "label": "New quests",
                 "items": [
                   "True Man's World",
@@ -105,10 +109,6 @@
                 "items": [
                   "Mandom"
                 ]
-              },
-              {
-                "label": "NEW CONTENT",
-                "items": []
               }
             ],
             "btnText": "",
