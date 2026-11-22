@@ -266,15 +266,18 @@
           }
         },
         {
-          "id": "4vj41b3",
-          "type": "text",
-          "w": 6,
-          "h": 3,
+          "id": "76t1v5m",
+          "type": "image",
+          "w": 4,
+          "h": 4,
           "x": 0,
           "y": 27,
           "data": {
-            "heading": "Heading",
-            "body": "Write something here.\n\n- Point one\n- Point two",
+            "url": "",
+            "alt": "",
+            "caption": "",
+            "tilt": 14,
+            "fit": "cover",
             "tone": "ink"
           }
         }
