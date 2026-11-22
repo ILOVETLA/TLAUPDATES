@@ -549,9 +549,9 @@
               },
               {
                 "target": "Ground Erasure",
-                "stat": "Damage",
-                "from": "10",
-                "to": "12",
+                "stat": "",
+                "from": "",
+                "to": "",
                 "kind": "buff"
               }
             ],
