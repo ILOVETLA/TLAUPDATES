@@ -498,12 +498,12 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 64,
+          "y": 59,
           "data": {
-            "text": "New Title",
+            "text": "balance changes",
             "tag": "",
-            "size": "medium",
-            "align": "left",
+            "size": "large",
+            "align": "center",
             "tone": "ink"
           }
         }
