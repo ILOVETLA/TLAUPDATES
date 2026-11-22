@@ -292,6 +292,19 @@
             "rotate": -6,
             "tone": "ink"
           }
+        },
+        {
+          "id": "yvig0cc",
+          "type": "text",
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 31,
+          "data": {
+            "heading": "Heading",
+            "body": "Write something here.\n\n- Point one\n- Point two",
+            "tone": "ink"
+          }
         }
       ]
     },
