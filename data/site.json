@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 61,
+          "y": 63,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -397,7 +397,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 47,
+          "y": 53,
           "data": {
             "text": "NEW QUESTS",
             "tag": "",
@@ -412,7 +412,7 @@
           "w": 6,
           "h": 5,
           "x": 0,
-          "y": 48,
+          "y": 54,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
@@ -425,7 +425,7 @@
           "w": 6,
           "h": 5,
           "x": 6,
-          "y": 53,
+          "y": 58,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
@@ -438,7 +438,7 @@
           "w": 4,
           "h": 4,
           "x": 1,
-          "y": 53,
+          "y": 59,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdlg4z-2f06a6be05c99558fbb3353db62dfa1d.jpg",
             "alt": "",
@@ -454,7 +454,7 @@
           "w": 4,
           "h": 4,
           "x": 7,
-          "y": 49,
+          "y": 54,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdl3q1-HeyYaAppear.png",
             "alt": "",
@@ -470,7 +470,7 @@
           "w": 1,
           "h": 3,
           "x": 0,
-          "y": 53,
+          "y": 59,
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
@@ -483,8 +483,8 @@
           "type": "sfx",
           "w": 1,
           "h": 3,
-          "x": 0,
-          "y": 56,
+          "x": 11,
+          "y": 55,
           "data": {
             "text": "ゴゴゴ",
             "size": "large",
