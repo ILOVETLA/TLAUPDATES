@@ -296,9 +296,9 @@
         {
           "id": "yvig0cc",
           "type": "text",
-          "w": 6,
+          "w": 9,
           "h": 3,
-          "x": 3,
+          "x": 1,
           "y": 32,
           "data": {
             "heading": "Heading",
