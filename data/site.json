@@ -528,6 +528,28 @@
             "note": "",
             "tone": "ink"
           }
+        },
+        {
+          "id": "r9vool8",
+          "type": "balance",
+          "w": 6,
+          "h": 3,
+          "x": 6,
+          "y": 60,
+          "data": {
+            "title": "The World",
+            "rows": [
+              {
+                "target": "The World",
+                "stat": "",
+                "from": "",
+                "to": "Cripples you",
+                "kind": "fix"
+              }
+            ],
+            "note": "",
+            "tone": "ink"
+          }
         }
       ]
     },
