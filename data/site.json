@@ -537,7 +537,14 @@
                 "target": "Erasure Swipe",
                 "stat": "",
                 "from": "",
-                "to": "Cripples you",
+                "to": "Has lesser endlag",
+                "kind": "buff"
+              },
+              {
+                "target": "Stand",
+                "stat": "Damage",
+                "from": "10",
+                "to": "12",
                 "kind": "buff"
               }
             ],
