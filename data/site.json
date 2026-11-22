@@ -637,6 +637,19 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "7r65gj7",
+          "type": "text",
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 80,
+          "data": {
+            "heading": "Heading",
+            "body": "Write something here.\n\n- Point one\n- Point two",
+            "tone": "ink"
+          }
         }
       ]
     },
