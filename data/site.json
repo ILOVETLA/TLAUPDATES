@@ -559,7 +559,7 @@
                 "target": "Impale",
                 "stat": "DMG",
                 "from": "30",
-                "to": "100",
+                "to": "60",
                 "kind": "buff"
               }
             ],
