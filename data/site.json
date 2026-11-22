@@ -386,7 +386,7 @@
           "x": 4,
           "y": 38,
           "data": {
-            "heading": "Heading",
+            "heading": "",
             "body": "Write something here.\n\n- Point one\n- Point two",
             "tone": "violet"
           }
