@@ -139,7 +139,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 25,
+          "y": 26,
           "data": {
             "text": "TO BE CONTINUED...",
             "jp": "まだ終わりではない…",
@@ -256,9 +256,9 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 26,
+          "y": 25,
           "data": {
-            "text": "New Title",
+            "text": "NEW GAMEMODE",
             "tag": "",
             "size": "medium",
             "align": "left",
