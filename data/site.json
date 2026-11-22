@@ -699,8 +699,8 @@
           "type": "video",
           "w": 3,
           "h": 5,
-          "x": 3,
-          "y": 76,
+          "x": 6,
+          "y": 80,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mws9std2-Enregistrement_de_l_cran_2026-11-22_150900.mp4",
             "caption": "",
@@ -741,8 +741,8 @@
           "type": "video",
           "w": 3,
           "h": 5,
-          "x": 6,
-          "y": 80,
+          "x": 3,
+          "y": 75,
           "data": {
             "url": "",
             "caption": "",
