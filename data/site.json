@@ -534,11 +534,11 @@
             "title": "The Hand",
             "rows": [
               {
-                "target": "Star Breaker",
+                "target": "Erasure Swipe",
                 "stat": "",
                 "from": "",
                 "to": "Cripples you",
-                "kind": "fix"
+                "kind": "buff"
               }
             ],
             "note": "",
