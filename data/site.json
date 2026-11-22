@@ -664,6 +664,21 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "2vd3zfk",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 59,
+          "data": {
+            "text": "New Title",
+            "tag": "",
+            "size": "medium",
+            "align": "left",
+            "tone": "ink"
+          }
         }
       ]
     },
