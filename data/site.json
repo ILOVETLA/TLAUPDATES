@@ -95,7 +95,10 @@
               },
               {
                 "label": "Balance changes",
-                "items": []
+                "items": [
+                  "Star Platinum",
+                  "The World"
+                ]
               }
             ],
             "btnText": "",
