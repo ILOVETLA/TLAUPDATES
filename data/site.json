@@ -548,7 +548,7 @@
                 "kind": "buff"
               },
               {
-                "target": "Stand",
+                "target": "Ground Erasure",
                 "stat": "Damage",
                 "from": "10",
                 "to": "12",
