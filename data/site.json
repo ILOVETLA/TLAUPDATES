@@ -821,7 +821,7 @@
                 "target": "Ora Breaker",
                 "stat": "",
                 "from": "Ragdoll",
-                "to": "60",
+                "to": "Stun",
                 "kind": "buff"
               }
             ],
