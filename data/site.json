@@ -298,8 +298,8 @@
           "type": "text",
           "w": 6,
           "h": 3,
-          "x": 0,
-          "y": 31,
+          "x": 3,
+          "y": 24,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
