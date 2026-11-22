@@ -249,6 +249,21 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "5p7ju1t",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 26,
+          "data": {
+            "text": "New Title",
+            "tag": "",
+            "size": "medium",
+            "align": "left",
+            "tone": "ink"
+          }
         }
       ]
     },
