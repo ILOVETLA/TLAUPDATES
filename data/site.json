@@ -328,11 +328,11 @@
           "x": 0,
           "y": 35,
           "data": {
-            "text": "New Title",
+            "text": "NEW EVENT",
             "tag": "",
-            "size": "medium",
-            "align": "left",
-            "tone": "ink"
+            "size": "large",
+            "align": "center",
+            "tone": "gold"
           }
         }
       ]
