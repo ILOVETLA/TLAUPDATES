@@ -81,16 +81,16 @@
                 ]
               },
               {
+                "label": "NEW EVENT",
+                "items": [
+                  "Ringo VS Gyro"
+                ]
+              },
+              {
                 "label": "New quests",
                 "items": [
                   "True Man's World",
                   "Way of the Spin"
-                ]
-              },
-              {
-                "label": "NEW EVENT",
-                "items": [
-                  "Ringo VS Gyro"
                 ]
               }
             ],
