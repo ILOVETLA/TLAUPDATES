@@ -405,6 +405,19 @@
             "align": "center",
             "tone": "ink"
           }
+        },
+        {
+          "id": "eapxloq",
+          "type": "text",
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 48,
+          "data": {
+            "heading": "Heading",
+            "body": "Write something here.\n\n- Point one\n- Point two",
+            "tone": "ink"
+          }
         }
       ]
     },
