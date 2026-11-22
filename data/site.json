@@ -647,7 +647,7 @@
           "y": 50,
           "data": {
             "heading": "Unusuals",
-            "body": "Write something here.\n\n- Point one\n- Point two",
+            "body": "",
             "tone": "ink"
           }
         },
