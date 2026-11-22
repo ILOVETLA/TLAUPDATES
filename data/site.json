@@ -264,6 +264,19 @@
             "align": "center",
             "tone": "violet"
           }
+        },
+        {
+          "id": "4vj41b3",
+          "type": "text",
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 27,
+          "data": {
+            "heading": "Heading",
+            "body": "Write something here.\n\n- Point one\n- Point two",
+            "tone": "ink"
+          }
         }
       ]
     },
