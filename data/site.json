@@ -361,7 +361,7 @@
             "url": "",
             "caption": "",
             "fit": "cover",
-            "tone": "ink"
+            "tone": "gold"
           }
         },
         {
@@ -375,7 +375,7 @@
             "url": "",
             "caption": "",
             "fit": "cover",
-            "tone": "ink"
+            "tone": "gold"
           }
         },
         {
@@ -388,7 +388,7 @@
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
-            "tone": "gold"
+            "tone": "violet"
           }
         }
       ]
