@@ -186,6 +186,33 @@
             "fit": "cover",
             "tone": "ink"
           }
+        },
+        {
+          "id": "kmghls6",
+          "type": "patch",
+          "w": 7,
+          "h": 5,
+          "x": 0,
+          "y": 29,
+          "data": {
+            "badge": "MAJOR UPDATE",
+            "version": "VERSION 1.0.0",
+            "title": "UPDATE NAME",
+            "sfx": "ゴゴゴゴ",
+            "tagline": "A NEW POWER EMERGES...",
+            "sections": [
+              {
+                "label": "NEW CONTENT",
+                "items": [
+                  "Added something new"
+                ]
+              }
+            ],
+            "btnText": "READ FULL PATCH NOTES →",
+            "btnUrl": "",
+            "released": true,
+            "tone": "ink"
+          }
         }
       ]
     },
