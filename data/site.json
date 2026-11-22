@@ -334,6 +334,21 @@
             "align": "center",
             "tone": "violet"
           }
+        },
+        {
+          "id": "iu9g607",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 36,
+          "data": {
+            "text": "rINGO vS GYRO",
+            "tag": "",
+            "size": "small",
+            "align": "center",
+            "tone": "ink"
+          }
         }
       ]
     },
