@@ -354,7 +354,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 36,
+          "y": 37,
           "data": {
             "text": "rINGO vS GYRO",
             "tag": "",
@@ -369,7 +369,7 @@
           "w": 4,
           "h": 9,
           "x": 0,
-          "y": 37,
+          "y": 38,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrczdek-Enregistrement_de_l_cran_2026-11-21_235024.mp4",
             "caption": "",
@@ -383,7 +383,7 @@
           "w": 4,
           "h": 9,
           "x": 8,
-          "y": 37,
+          "y": 38,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrcxn5o-Enregistrement_de_l_cran_2026-11-21_234901.mp4",
             "caption": "",
@@ -410,7 +410,7 @@
           "w": 12,
           "h": 1,
           "x": 0,
-          "y": 47,
+          "y": 48,
           "data": {
             "text": "NEW QUESTS",
             "tag": "",
@@ -425,7 +425,7 @@
           "w": 6,
           "h": 5,
           "x": 0,
-          "y": 48,
+          "y": 49,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
@@ -451,7 +451,7 @@
           "w": 4,
           "h": 4,
           "x": 2,
-          "y": 53,
+          "y": 54,
           "data": {
             "url": "https://raw.githubusercontent.com/ilovetla/TLAUPDATES/site-data/assets/mwrdlg4z-2f06a6be05c99558fbb3353db62dfa1d.jpg",
             "alt": "",
@@ -589,6 +589,21 @@
           "data": {
             "text": "Mandom - +1 TLA buck",
             "tone": "ink"
+          }
+        },
+        {
+          "id": "zdohm54",
+          "type": "title",
+          "w": 12,
+          "h": 1,
+          "x": 0,
+          "y": 47,
+          "data": {
+            "text": "NEW EVENT",
+            "tag": "",
+            "size": "large",
+            "align": "center",
+            "tone": "violet"
           }
         }
       ]
