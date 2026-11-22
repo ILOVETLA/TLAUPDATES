@@ -642,9 +642,9 @@
           "id": "7r65gj7",
           "type": "text",
           "w": 6,
-          "h": 3,
+          "h": 4,
           "x": 0,
-          "y": 80,
+          "y": 50,
           "data": {
             "heading": "Heading",
             "body": "Write something here.\n\n- Point one\n- Point two",
