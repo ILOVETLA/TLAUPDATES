@@ -575,7 +575,7 @@
                 "target": "Impale",
                 "stat": "Armor",
                 "from": "Regular",
-                "to": "60",
+                "to": "I-FRAMES",
                 "kind": "buff"
               }
             ],
