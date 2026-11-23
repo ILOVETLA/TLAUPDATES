@@ -573,8 +573,8 @@
             "rows": [
               {
                 "target": "Impale",
-                "stat": "DMG",
-                "from": "30",
+                "stat": "Armor",
+                "from": "Regular",
                 "to": "60",
                 "kind": "buff"
               }
