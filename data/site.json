@@ -589,7 +589,7 @@
                 "target": "Impale",
                 "stat": "Block",
                 "from": "Perfect Blockable",
-                "to": "12",
+                "to": "Not PB",
                 "kind": "buff"
               },
               {
