@@ -601,7 +601,7 @@
               },
               {
                 "target": "Light Kick",
-                "stat": "Damage",
+                "stat": "Cooldown",
                 "from": "10",
                 "to": "12",
                 "kind": "buff"
