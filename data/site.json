@@ -579,25 +579,11 @@
                 "kind": "buff"
               },
               {
-                "target": "Light Kick",
+                "target": "Checkmate",
                 "stat": "Cooldown",
-                "from": "12",
-                "to": "18",
+                "from": "10",
+                "to": "14",
                 "kind": "nerf"
-              },
-              {
-                "target": "Stand",
-                "stat": "Damage",
-                "from": "10",
-                "to": "12",
-                "kind": "buff"
-              },
-              {
-                "target": "Stand",
-                "stat": "Damage",
-                "from": "10",
-                "to": "12",
-                "kind": "buff"
               }
             ],
             "note": "I was forced to nerf the world",
