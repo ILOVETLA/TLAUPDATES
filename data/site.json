@@ -582,7 +582,7 @@
                 "target": "Checkmate",
                 "stat": "Cooldown",
                 "from": "10",
-                "to": "12",
+                "to": "14",
                 "kind": "buff"
               }
             ],
