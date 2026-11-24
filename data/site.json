@@ -602,7 +602,7 @@
               {
                 "target": "Light Kick",
                 "stat": "Cooldown",
-                "from": "10",
+                "from": "12",
                 "to": "12",
                 "kind": "buff"
               }
