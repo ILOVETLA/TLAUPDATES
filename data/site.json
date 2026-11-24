@@ -586,6 +586,13 @@
                 "kind": "buff"
               },
               {
+                "target": "Impale",
+                "stat": "Damage",
+                "from": "10",
+                "to": "12",
+                "kind": "buff"
+              },
+              {
                 "target": "Checkmate",
                 "stat": "Cooldown",
                 "from": "10",
