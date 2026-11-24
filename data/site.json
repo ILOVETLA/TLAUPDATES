@@ -587,7 +587,7 @@
               },
               {
                 "target": "Impale",
-                "stat": "Damage",
+                "stat": "Block",
                 "from": "10",
                 "to": "12",
                 "kind": "buff"
