@@ -600,7 +600,7 @@
                 "kind": "nerf"
               },
               {
-                "target": "Stand",
+                "target": "Light Kick",
                 "stat": "Damage",
                 "from": "10",
                 "to": "12",
