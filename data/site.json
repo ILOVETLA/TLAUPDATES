@@ -581,8 +581,8 @@
               {
                 "target": "Light Kick",
                 "stat": "Cooldown",
-                "from": "10",
-                "to": "14",
+                "from": "12",
+                "to": "18",
                 "kind": "nerf"
               },
               {
