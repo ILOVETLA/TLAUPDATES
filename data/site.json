@@ -579,10 +579,17 @@
                 "kind": "buff"
               },
               {
-                "target": "Checkmate",
+                "target": "Light Kick",
                 "stat": "Cooldown",
                 "from": "10",
                 "to": "14",
+                "kind": "nerf"
+              },
+              {
+                "target": "Stand",
+                "stat": "Damage",
+                "from": "10",
+                "to": "12",
                 "kind": "buff"
               }
             ],
