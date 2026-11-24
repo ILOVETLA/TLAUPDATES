@@ -579,7 +579,7 @@
                 "kind": "buff"
               },
               {
-                "target": "Stand",
+                "target": "Checkmate",
                 "stat": "Damage",
                 "from": "10",
                 "to": "12",
